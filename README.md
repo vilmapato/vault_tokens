@@ -1,4 +1,4 @@
-# 🏦 PATS Vault — Task 2 (Vault)
+# 🏦 Vault — Task 2 (Vault)
 
 This project demonstrates how to mint a custom Token-2022 token, create a vault, and lock tokens inside it on **Solana Devnet**.
 

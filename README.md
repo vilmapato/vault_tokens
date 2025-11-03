@@ -3,6 +3,7 @@
 This project demonstrates how to mint a custom Token-2022 token, create a vault, and lock tokens inside it on **Solana Devnet**.
 
 ---
+link to the successfull locked Token: https://solscan.io/account/5zMPWa5HmQubXpL7dAC2vsWSPoJiXZjnf1cPf8F6Xafc?cluster=devnet
 
 Image of successfull transaction:
 ![Vault_ATA holding Tokens](/docs/complete_transaction.png)
